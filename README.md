@@ -74,14 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay2408&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay2408&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjay2408&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - **Email**: [sanjayfxdesign@gmail.com](mailto:sanjayfxdesign@gmail.com)  
