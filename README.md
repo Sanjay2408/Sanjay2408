@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Sanjay2408&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/Sanjay2408?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sanjay2408?style=flat-square&color=blue" />
   </a>
 </p>
 
@@ -76,9 +76,9 @@
 
 ## 📊 GitHub Stats
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay2408&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay2408&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjay2408&theme=tokyonight)
 
 ---
 
