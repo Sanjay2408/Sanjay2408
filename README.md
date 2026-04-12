@@ -15,8 +15,7 @@
 
 🎓 B.Sc (Hons) Computer Science student  
 📊 Data Science & AI/ML learner  
-🏫 Vice President, **ChipTech Club – RV University**  
-🎬 Video Editor, Cinematographer & Social Media Manager  
+🎬 Cinematographer  
 🤝 I enjoy collaborating, meeting people, and learning across different domains instead of staying stuck in one  
 🚀 Currently building my foundation step by step  
 
