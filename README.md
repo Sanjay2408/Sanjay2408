@@ -7,14 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=28&pause=1000&color=0086F7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Creative+Technologist;Code+%2B+Content+Builder" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay2408&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <a href="https://github.com/Sanjay2408?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sanjay2408?style=flat-square&color=blue" />
-  </a>
-</p>
-
 ---
 
 ## ⚡ About Me
